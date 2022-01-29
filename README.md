@@ -1,2 +1,5 @@
 # kovenant
-my distribution of covenant for kubernetes
+
+My development distribution of covenant for kubernetes and automation.
+
+
